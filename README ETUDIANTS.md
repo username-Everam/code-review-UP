@@ -1,5 +1,5 @@
 pour chaque participants:
 
-NOM prenom 
+ARMAND Simon 
 
 ...
