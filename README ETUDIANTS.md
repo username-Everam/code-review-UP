@@ -1,5 +1,7 @@
 pour chaque participants:
 
-ARMAND Simon 
+ARMAND Simon
+GRIBANOVA Sofia
+GIKAPA Christian
 2024
 ...
